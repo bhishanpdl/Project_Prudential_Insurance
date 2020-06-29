@@ -1,6 +1,6 @@
 # Description
 Author: [Bhishan Poudel](https://bhishanpdl.github.io/index.html)  
-Project: Prudential Life Insurance policy prediction (multiclass classification, categories 1-8)  [Prudential.com](https://www.prudential.com/)  
+Project: Prudential Life Insurance policy prediction (multiclass classification, categories 1-8)   
 Kaggle project page: [Prudential Life Insurance Assessment](https://www.kaggle.com/c/prudential-life-insurance-assessment)  
 Task: Multiclass classification (Response 1 to 8)  
 Metric of evaluation: Quadratic Weighted Kappa 
